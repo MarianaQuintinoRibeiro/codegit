@@ -1,0 +1,17 @@
+git
+
+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
+
+_________________________________
+
+echo "# aula10" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:MarianaQuintinoRibeiro/aula10.git
+git push -u origin main
+
+-------------------------
+
+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
